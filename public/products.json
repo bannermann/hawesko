@@ -1,0 +1,508 @@
+{
+    "question1": "Wein passt immer.",
+    "question2": "Aber welcher?",
+    "anlaesse": [{
+            "anlassid": 0,
+            "buttontext": "Zum Essen",
+            "question": "Zu welchem Essen möchten Sie trinken?",
+            "values": [{
+                    "foodcat": 0,
+                    "buttontext": "Helles Fleisch",
+                    "question": "Zu welchem hellen Fleisch möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Hähnchen",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Kaiserstrasse Grauburgunder Alte Reben", "farbe": "weiss", "image": "kaiserstrasse-grauburgunder-alte-reben-2020-wein.png", "trackurl": "https://www.hawesko.de/kaiserstrasse-grauburgunder-alte-reben-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiserstrasse-grauburgunder-alte-reben-2020" },
+                                { "name": "Elbphilharmonie Weißburgunder", "farbe": "weiss", "image": "elbphilharmonie-weissburgunder-2020-wein.png", "trackurl": "https://www.hawesko.de/elbphilharmonie-weissburgunder-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=elbphilharmonie-weissburgunder-2020" },
+                                { "name": "St. Antony Pinot Noir", "farbe": "rot", "image": "niersteiner-pinot-noir-2019-wein.png", "trackurl": "https://www.hawesko.de/niersteiner-pinot-noir-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=niersteiner-pinot-noir-2019" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Pute",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Palazzo Antinori Bianco", "farbe": "weiss", "image": "palazzo-antinori-bianco-2020-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-bianco-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-bianco-2020" },
+                                { "name": "Aufsteiger Riesling Steillage", "farbe": "weiss", "image": "aufsteiger-riesling-steillage-2020-wein.png", "trackurl": "https://www.hawesko.de/aufsteiger-riesling-steillage-2020?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=aufteiger-riesling" },
+                                { "name": "St. Antony Pinot Noir", "farbe": "rot", "image": "niersteiner-pinot-noir-2019-wein.png", "trackurl": "https://www.hawesko.de/niersteiner-pinot-noir-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=niersteiner-pinot-noir-2019" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Gans",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Recompagno Primitivo Riserva", "farbe": "rot", "image": "recompagno-primitivo-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/recompagno-primitivo-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=recompagno-primitivo-riserva-2017" },
+                                { "name": "Les Jamelles Merlot", "farbe": "rot", "image": "les-jamelles-merlot-2019-wein.png", "trackurl": "https://www.hawesko.de/les-jamelles-merlot-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=les-jamelles-merlot-2019" },
+                                { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Kalb",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Vieille Ferme rouge Christmas Edition", "farbe": "rot", "image": "la-vieille-ferme-rouge-christmas-edition-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-vieille-ferme-rouge-christmas-edition-2020-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=laviellefermerouge" },
+                                { "name": "Schwanberg Grüner Veltliner", "farbe": "weiss", "image": "schwanberg-gruener-veltliner-2020-wein.png", "trackurl": "https://www.hawesko.de/schwanberg-gruener-veltliner-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=schwanberg-gruener-veltliner-2020" },
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 1,
+                    "buttontext": "Rotes Fleisch",
+                    "question": "Zu welchem roten Fleisch möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Rind",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Leolucaia Rosso", "farbe": "rot", "image": "leolucaia-rosso-2017-wein.png", "trackurl": "https://www.hawesko.de/leolucaia-rosso-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=leolucaia-rosso-2017" },
+                                { "name": "Kaiken Malbec", "farbe": "rot", "image": "kaiken-malbec-2019-1-wein.png", "trackurl": "https://www.hawesko.de/kaiken-malbec-2019-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiken-malbec-2019-1" },
+                                { "name": "Penfolds", "farbe": "rot", "image": "koonunga-hill-shiraz-cabernet-2019-wein.png", "trackurl": "https://www.hawesko.de/penfolds-wines/koonunga-hill-shiraz-cabernet-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=koonunga-hill-shiraz-cabernet-2019" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Lamm",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Evoluzione Chianti Riserva", "farbe": "rot", "image": "evoluzione-chianti-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/evoluzione-chianti-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=evoluzione-chianti-riserva-2017" },
+                                { "name": "Dieter Meier - Puro Malbec", "farbe": "rot", "image": "dieter-meier-puro-malbec-2020-wein.png", "trackurl": "https://www.hawesko.de/dieter-meier-puro-malbec-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=dieter-meier-puro-malbec-2020" },
+                                { "name": "St. Antony Pinot Noir", "farbe": "rot", "image": "niersteiner-pinot-noir-2019-wein.png", "trackurl": "https://www.hawesko.de/niersteiner-pinot-noir-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=niersteiner-pinot-noir-2019" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Wild",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Corte Mayor Rioja Reserva", "farbe": "rot", "image": "corte-mayor-rioja-reserva-2016-wein.png", "trackurl": "https://www.hawesko.de/corte-mayor-rioja-reserva-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=corte-mayor-rioja-reserva-2016" },
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" },
+                                { "name": "Marqués de Sandoval Gran Reserva", "farbe": "rot", "image": "marques-de-sandoval-gran-reserva-2015-wein.png", "trackurl": "https://www.hawesko.de/marques-de-sandoval-gran-reserva-2015?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=marques-de-sandoval-gran-reserva-2015" }
+
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Schwein",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Vieille Ferme rouge Christmas Edition", "farbe": "rot", "image": "la-vieille-ferme-rouge-christmas-edition-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-vieille-ferme-rouge-christmas-edition-2020-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=laviellefermerouge" },
+                                { "name": "Königschaffhauser Vulkanfelsen Spätburgunder", "farbe": "rot", "image": "koenigschaffhauser-vulkanfelsen-spaetburgunder-2018-wein.png", "trackurl": "https://www.hawesko.de/koenigschaffhauser-vulkanfelsen-spaetburgunder-2018??agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=koenigschaffhauser-vulkanfelsen-spaetburgunder-2018?" },
+                                { "name": "Schwanberg Grüner Veltliner", "farbe": "weiss", "image": "schwanberg-gruener-veltliner-2020-wein.png", "trackurl": "https://www.hawesko.de/schwanberg-gruener-veltliner-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=schwanberg-gruener-veltliner-2020" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 2,
+                    "buttontext": "Fisch",
+                    "question": "Zu welchem Fisch möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Lachs",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Feudo Arancio Grillo", "farbe": "weiss", "image": "feudo-arancio-grillo-2020-wein.png", "trackurl": "https://www.hawesko.de/feudo-arancio-grillo-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=feudo-arancio-grillo-2020" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" },
+                                { "name": "Aufsteiger Riesling Steillage", "farbe": "weiss", "image": "aufsteiger-riesling-steillage-2020-wein.png", "trackurl": "https://www.hawesko.de/aufsteiger-riesling-steillage-2020?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=aufteiger-riesling" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Thunfisch",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Sileni Plateau Pinot Noir", "farbe": "rot", "image": "sileni-plateau-pinot-noir-2018-wein.png", "trackurl": "https://www.hawesko.de/sileni-plateau-pinot-noir-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=sileni-plateau-pinot-noir-2018" },
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" },
+                                { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Dorade",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Elbphilharmonie Weißburgunder", "farbe": "weiss", "image": "elbphilharmonie-weissburgunder-2020-wein.png", "trackurl": "https://www.hawesko.de/elbphilharmonie-weissburgunder-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=elbphilharmonie-weissburgunder-2020" },
+                                { "name": "Cinolo Pino Grigio", "farbe": "weiss", "image": "cinolo-pinot-grigio-2020-wein.png", "trackurl": "https://www.hawesko.de/cinolo-pinot-grigio-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cinolo-pinot-grigio-2020" },
+                                { "name": "Côtes de Gascogne blanc", "farbe": "weiss", "image": "cotes-de-gascogne-blanc-2020-wein.png", "trackurl": "https://www.hawesko.de/cotes-de-gascogne-blanc-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cotes-de-gascogne-blanc-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Sushi",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Palazzo Antinori Bianco", "farbe": "weiss", "image": "palazzo-antinori-bianco-2020-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-bianco-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-bianco-2020" },
+                                { "name": "Conte Amato Prosecco", "farbe": "weiss", "image": "conte-amato-prosecco-1-besonderheiten.png", "trackurl": "https://www.hawesko.de/conte-amato-prosecco-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=conte-amato-prosecco" },
+                                { "name": "La Fleur Saint-Michel Perlant", "farbe": "weiss", "image": "la-fleur-saint-michel-perlant-besonderheiten.png", "trackurl": "https://www.hawesko.de/la-fleur-saint-michel-perlant?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-fleur-saint-michel-perlant" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 3,
+                    "buttontext": "Meeresfrüchte",
+                    "question": "Zu welchen Meeresfrüchten möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Hummer",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Champagne Pommery Noir", "farbe": "weiss", "image": "champagne-pommery-noir-1-champagner.png", "trackurl": "https://www.hawesko.de/champagne-pommery-noir-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=champagne-pommery-noir" },
+                                { "name": "Elbphilharmonie Weißburgunder", "farbe": "weiss", "image": "elbphilharmonie-weissburgunder-2020-wein.png", "trackurl": "https://www.hawesko.de/elbphilharmonie-weissburgunder-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=elbphilharmonie-weissburgunder-2020" },
+                                { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Garnelen",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Conte Amato Prosecco", "farbe": "weiss", "image": "conte-amato-prosecco-1-besonderheiten.png", "trackurl": "https://www.hawesko.de/conte-amato-prosecco-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=conte-amato-prosecco" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" },
+                                { "name": "Côtes de Gascogne Blanc", "farbe": "weiss", "image": "cotes-de-gascogne-blanc-2020-wein.png", "trackurl": "https://www.hawesko.de/cotes-de-gascogne-blanc-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cotes-de-gascogne-blanc-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Austern",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Champagne Pommery Noir", "farbe": "weiss", "image": "champagne-pommery-noir-1-champagner.png", "trackurl": "https://www.hawesko.de/champagne-pommery-noir-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=champagne-pommery-noir" },
+                                { "name": "Crémant de Jessy", "farbe": "weiss", "image": "cremant-de-jessy-besonderheiten.png", "trackurl": "https://www.hawesko.de/cremant-de-jessy?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cremant-de-jessy" },
+                                { "name": "Côtes de Gascogne Blanc", "farbe": "weiss", "image": "cotes-de-gascogne-blanc-2020-wein.png", "trackurl": "https://www.hawesko.de/cotes-de-gascogne-blanc-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cotes-de-gascogne-blanc-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Tintenfisch",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Feudo Arancio Grillo", "farbe": "weiss", "image": "feudo-arancio-grillo-2020-wein.png", "trackurl": "https://www.hawesko.de/feudo-arancio-grillo-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=feudo-arancio-grillo-2020" },
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" },
+                                { "name": "Kaiserstrasse Grauburgunder Alte Reben", "farbe": "weiss", "image": "kaiserstrasse-grauburgunder-alte-reben-2020-wein.png", "trackurl": "https://www.hawesko.de/kaiserstrasse-grauburgunder-alte-reben-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiserstrasse-grauburgunder-alte-reben-2020" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 4,
+                    "buttontext": "Vegetarisch",
+                    "question": "Zu welchem vegetarischem Gericht möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Tofu",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Côtes de Gascogne Blanc", "farbe": "weiss", "image": "cotes-de-gascogne-blanc-2020-wein.png", "trackurl": "https://www.hawesko.de/cotes-de-gascogne-blanc-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cotes-de-gascogne-blanc-2020" },
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" },
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Salat",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" },
+                                { "name": "Feudo Arancio Grillo", "farbe": "weiss", "image": "feudo-arancio-grillo-2020-wein.png", "trackurl": "https://www.hawesko.de/feudo-arancio-grillo-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=feudo-arancio-grillo-2020" },
+                                { "name": "Conte Amato Prosecco", "farbe": "weiss", "image": "conte-amato-prosecco-1-besonderheiten.png", "trackurl": "https://www.hawesko.de/conte-amato-prosecco-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=conte-amato-prosecco" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Grillgemüse",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Sileni Plateau Pinot Noir", "farbe": "rot", "image": "sileni-plateau-pinot-noir-2018-wein.png", "trackurl": "https://www.hawesko.de/sileni-plateau-pinot-noir-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=sileni-plateau-pinot-noir-2018" },
+                                { "name": "Emma Primitivo", "farbe": "rot", "image": "emma-primitivo-from-grape-til-wine-2020-wein.png", "trackurl": "https://www.hawesko.de/emma-primitivo-from-grape-til-wine-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=emma-primitivo-from-grape-til-wine-2020" },
+                                { "name": "Aufsteiger Riesling Steillage", "farbe": "weiss", "image": "aufsteiger-riesling-steillage-2020-wein.png", "trackurl": "https://www.hawesko.de/aufsteiger-riesling-steillage-2020?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=aufteiger-riesling" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Rohkost",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Fleur Saint-Michel Perlant", "farbe": "weiss", "image": "la-fleur-saint-michel-perlant-besonderheiten.png", "trackurl": "https://www.hawesko.de/la-fleur-saint-michel-perlant?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-fleur-saint-michel-perlant" },
+                                { "name": "Côtes de Gascogne Blanc", "farbe": "weiss", "image": "cotes-de-gascogne-blanc-2020-wein.png", "trackurl": "https://www.hawesko.de/cotes-de-gascogne-blanc-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cotes-de-gascogne-blanc-2020" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 5,
+                    "buttontext": "Käse",
+                    "question": "Zu welchem Käse möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Parmesan",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Palazzo Antinori Bianco", "farbe": "weiss", "image": "palazzo-antinori-bianco-2020-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-bianco-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-bianco-2020" },
+                                { "name": "Evoluzione Chianti Riserva", "farbe": "rot", "image": "evoluzione-chianti-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/evoluzione-chianti-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=evoluzione-chianti-riserva-2017" },
+                                { "name": "Dieter Meier - Puro Malbec", "farbe": "rot", "image": "dieter-meier-puro-malbec-2020-wein.png", "trackurl": "https://www.hawesko.de/dieter-meier-puro-malbec-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=dieter-meier-puro-malbec-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Camenbert",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Les Jamelles Merlot", "farbe": "rot", "image": "les-jamelles-merlot-2019-wein.png", "trackurl": "https://www.hawesko.de/les-jamelles-merlot-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=les-jamelles-merlot-2019" },
+                                { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" },
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" }
+
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Bergkäse",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Marqués de Sandoval Gran Reserva", "farbe": "rot", "image": "marques-de-sandoval-gran-reserva-2015-wein.png", "trackurl": "https://www.hawesko.de/marques-de-sandoval-gran-reserva-2015?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=marques-de-sandoval-gran-reserva-2015" },
+                                { "name": "St. Antony Pinot Noir", "farbe": "rot", "image": "niersteiner-pinot-noir-2019-wein.png", "trackurl": "https://www.hawesko.de/niersteiner-pinot-noir-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=niersteiner-pinot-noir-2019" },
+                                { "name": "Schwanberg Grüner Veltliner", "farbe": "weiss", "image": "schwanberg-gruener-veltliner-2020-wein.png", "trackurl": "https://www.hawesko.de/schwanberg-gruener-veltliner-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=schwanberg-gruener-veltliner-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Gorgonzola",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" },
+                                { "name": "Aufsteiger Riesling Steillage", "farbe": "weiss", "image": "aufsteiger-riesling-steillage-2020-wein.png", "trackurl": "https://www.hawesko.de/aufsteiger-riesling-steillage-2020?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=aufteiger-riesling" },
+                                { "name": "Crémant de Jessy", "farbe": "weiss", "image": "cremant-de-jessy-besonderheiten.png", "trackurl": "https://www.hawesko.de/cremant-de-jessy?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cremant-de-jessy" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 6,
+                    "buttontext": "Pizza",
+                    "question": "Zu welchem hellen Fleisch möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Salami",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" },
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" },
+                                { "name": "Recompagno Primitivo Riserva", "farbe": "rot", "image": "recompagno-primitivo-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/recompagno-primitivo-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=recompagno-primitivo-riserva-2017" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Funghi",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Rothschild Avant Garde Bordeaux", "farbe": "rot", "image": "rothschild-avant-garde-bordeaux-2018-wein.png", "trackurl": "https://www.hawesko.de/rothschild-avant-garde-bordeaux-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-avant-garde-bordeaux-2018" },
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" },
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Thunfisch",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Vieille Ferme rouge Christmas Edition", "farbe": "rot", "image": "la-vieille-ferme-rouge-christmas-edition-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-vieille-ferme-rouge-christmas-edition-2020-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=laviellefermerouge" },
+                                { "name": "Kaiserstrasse Grauburgunder Alte Reben", "farbe": "weiss", "image": "kaiserstrasse-grauburgunder-alte-reben-2020-wein.png", "trackurl": "https://www.hawesko.de/kaiserstrasse-grauburgunder-alte-reben-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiserstrasse-grauburgunder-alte-reben-2020" },
+                                { "name": "Feudo Arancio Grillo", "farbe": "weiss", "image": "feudo-arancio-grillo-2020-wein.png", "trackurl": "https://www.hawesko.de/feudo-arancio-grillo-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=feudo-arancio-grillo-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Margarita",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" },
+                                { "name": "La Vieille Ferme rouge Christmas Edition", "farbe": "rot", "image": "la-vieille-ferme-rouge-christmas-edition-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-vieille-ferme-rouge-christmas-edition-2020-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=laviellefermerouge" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 7,
+                    "buttontext": "Pasta",
+                    "question": "Zu welcher Pasta möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Lasagne",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" },
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" },
+                                { "name": "Evoluzione Chianti Riserva", "farbe": "rot", "image": "evoluzione-chianti-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/evoluzione-chianti-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=evoluzione-chianti-riserva-2017" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Arabiata",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "La Vieille Ferme rouge Christmas Edition", "farbe": "rot", "image": "la-vieille-ferme-rouge-christmas-edition-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-vieille-ferme-rouge-christmas-edition-2020-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=laviellefermerouge" },
+                                { "name": "Leolucaia Rosso", "farbe": "rot", "image": "leolucaia-rosso-2017-wein.png", "trackurl": "https://www.hawesko.de/leolucaia-rosso-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=leolucaia-rosso-2017" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Pesto",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Schwanberg Grüner Veltliner", "farbe": "weiss", "image": "schwanberg-gruener-veltliner-2020-wein.png", "trackurl": "https://www.hawesko.de/schwanberg-gruener-veltliner-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=schwanberg-gruener-veltliner-2020" },
+                                { "name": "La Coquette Rosé", "farbe": "rose", "image": "la-coquette-rose-2020-1-wein.png", "trackurl": "https://www.hawesko.de/la-coquette-rose-2020-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-coquette-rose-2020-1" },
+                                { "name": "Emma Primitivo", "farbe": "rot", "image": "emma-primitivo-from-grape-til-wine-2020-wein.png", "trackurl": "https://www.hawesko.de/emma-primitivo-from-grape-til-wine-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=emma-primitivo-from-grape-til-wine-2020" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Carbonara",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" },
+                                { "name": "Conte Amato Prosecco", "farbe": "weiss", "image": "conte-amato-prosecco-1-besonderheiten.png", "trackurl": "https://www.hawesko.de/conte-amato-prosecco-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=conte-amato-prosecco" },
+                                { "name": "Königschaffhauser Vulkanfelsen Spätburgunder", "farbe": "rot", "image": "koenigschaffhauser-vulkanfelsen-spaetburgunder-2018-wein.png", "trackurl": "https://www.hawesko.de/koenigschaffhauser-vulkanfelsen-spaetburgunder-2018??agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=koenigschaffhauser-vulkanfelsen-spaetburgunder-2018?" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "foodcat": 8,
+                    "buttontext": "Schokolade",
+                    "question": "Zu welcher Schokolade möchten Sie trinken?",
+                    "values": [{
+                            "foodid": 0,
+                            "buttontext": "Zartbitter",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" },
+                                { "name": "Marqués de Sandoval Gran Reserva", "farbe": "rot", "image": "marques-de-sandoval-gran-reserva-2015-wein.png", "trackurl": "https://www.hawesko.de/marques-de-sandoval-gran-reserva-2015?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=marques-de-sandoval-gran-reserva-2015" },
+                                { "name": "Kaiken Malbec", "farbe": "rot", "image": "kaiken-malbec-2019-1-wein.png", "trackurl": "https://www.hawesko.de/kaiken-malbec-2019-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiken-malbec-2019-1" }
+                            ]
+                        },
+                        {
+                            "foodid": 1,
+                            "buttontext": "Vollmilch",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Königschaffhauser Vulkanfelsen Spätburgunder", "farbe": "rot", "image": "koenigschaffhauser-vulkanfelsen-spaetburgunder-2018-wein.png", "trackurl": "https://www.hawesko.de/koenigschaffhauser-vulkanfelsen-spaetburgunder-2018??agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=koenigschaffhauser-vulkanfelsen-spaetburgunder-2018?" },
+                                { "name": "Emma Primitivo", "farbe": "rot", "image": "emma-primitivo-from-grape-til-wine-2020-wein.png", "trackurl": "https://www.hawesko.de/emma-primitivo-from-grape-til-wine-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=emma-primitivo-from-grape-til-wine-2020" },
+                                { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" }
+                            ]
+                        },
+                        {
+                            "foodid": 2,
+                            "buttontext": "Pralinen",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Rothschild Avant Garde Bordeaux", "farbe": "rot", "image": "rothschild-avant-garde-bordeaux-2018-wein.png", "trackurl": "https://www.hawesko.de/rothschild-avant-garde-bordeaux-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-avant-garde-bordeaux-2018" },
+                                { "name": "Champagne Pommery Noir", "farbe": "weiss", "image": "champagne-pommery-noir-1-champagner.png", "trackurl": "https://www.hawesko.de/champagne-pommery-noir-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=champagne-pommery-noir" },
+                                { "name": "Barons de Rothschild Lafite Rouge", "farbe": "rot", "image": "barons-de-rothschild-lafite-rouge-2018-wein.png", "trackurl": "https://www.hawesko.de/barons-de-rothschild-lafite-rouge-2018?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=barons-de-rothschild-lafite-rouge-2018" }
+                            ]
+                        },
+                        {
+                            "foodid": 3,
+                            "buttontext": "Chilli",
+                            "question": "Unsere Weinempfehlung",
+                            "wines": [
+                                { "name": "Fundament Cuvée Rosé Wageck", "farbe": "rose", "image": "wageck-cuvee-rose-fundament-2020-besonderheiten.png", "trackurl": "https://www.hawesko.de/wageck-cuvee-rose-fundament-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=wageck-cuvee-rose-fundament-2020" },
+                                { "name": "Kaiken Malbec", "farbe": "rot", "image": "kaiken-malbec-2019-1-wein.png", "trackurl": "https://www.hawesko.de/kaiken-malbec-2019-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiken-malbec-2019-1" },
+                                { "name": "St. Antony Pinot Noir", "farbe": "rot", "image": "niersteiner-pinot-noir-2019-wein.png", "trackurl": "https://www.hawesko.de/niersteiner-pinot-noir-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=niersteiner-pinot-noir-2019" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "anlassid": 1,
+            "buttontext": "Als Geschenk",
+            "question": "Was möchten Sie lieber verschenken?",
+            "values": [{
+                    "foodcat": 0,
+                    "buttontext": "Rot",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "Leolucaia Rosso", "farbe": "rot", "image": "leolucaia-rosso-2017-wein.png", "trackurl": "https://www.hawesko.de/leolucaia-rosso-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=leolucaia-rosso-2017" },
+                        { "name": "Recompagno Primitivo Riserva", "farbe": "rot", "image": "recompagno-primitivo-riserva-2017-wein.png", "trackurl": "https://www.hawesko.de/recompagno-primitivo-riserva-2017?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=recompagno-primitivo-riserva-2017" },
+                        { "name": "Palazzo Antinori Rosso", "farbe": "rot", "image": "palazzo-antinori-rosso-2016-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-rosso-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-rosso-2016" }
+                    ]
+                },
+                {
+                    "foodcat": 1,
+                    "buttontext": "Weiss",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "Aufsteiger Riesling Steillage", "farbe": "weiss", "image": "aufsteiger-riesling-steillage-2020-wein.png", "trackurl": "https://www.hawesko.de/aufsteiger-riesling-steillage-2020?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=aufteiger-riesling" },
+                        { "name": "Elbphilharmonie Weißburgunder", "farbe": "weiss", "image": "elbphilharmonie-weissburgunder-2020-wein.png", "trackurl": "https://www.hawesko.de/elbphilharmonie-weissburgunder-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=elbphilharmonie-weissburgunder-2020" },
+                        { "name": "Palazzo Antinori Bianco", "farbe": "weiss", "image": "palazzo-antinori-bianco-2020-wein.png", "trackurl": "https://www.hawesko.de/palazzo-antinori-bianco-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=palazzo-antinori-bianco-2020" }
+                    ]
+                },
+                {
+                    "foodcat": 2,
+                    "buttontext": "Prickel",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "Champagne Pommery Noir", "farbe": "weiss", "image": "champagne-pommery-noir-1-champagner.png", "trackurl": "https://www.hawesko.de/champagne-pommery-noir-1?agent=spiegel_widget&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=champagne-pommery-noir" },
+                        { "name": "Conte Amato Prosecco", "farbe": "weiss", "image": "conte-amato-prosecco-1-besonderheiten.png", "trackurl": "https://www.hawesko.de/conte-amato-prosecco-1?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=conte-amato-prosecco" },
+                        { "name": "Crémant de Jessy", "farbe": "weiss", "image": "cremant-de-jessy-besonderheiten.png", "trackurl": "https://www.hawesko.de/cremant-de-jessy?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cremant-de-jessy" }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "anlassid": 2,
+            "buttontext": "Zum Genießen",
+            "question": "In welcher Atmosphäre möchten Sie trinken?",
+            "values": [{
+                    "foodcat": 0,
+                    "buttontext": "Mit Freunden",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "La Fleur Saint-Michel Perlant", "farbe": "weiss", "image": "la-fleur-saint-michel-perlant-besonderheiten.png", "trackurl": "https://www.hawesko.de/la-fleur-saint-michel-perlant?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=la-fleur-saint-michel-perlant" },
+                        { "name": "Kaiserstrasse Grauburgunder Alte Reben", "farbe": "weiss", "image": "kaiserstrasse-grauburgunder-alte-reben-2020-wein.png", "trackurl": "https://www.hawesko.de/kaiserstrasse-grauburgunder-alte-reben-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=kaiserstrasse-grauburgunder-alte-reben-2020" },
+                        { "name": "Les Jamelles Merlot", "farbe": "rot", "image": "les-jamelles-merlot-2019-wein.png", "trackurl": "https://www.hawesko.de/les-jamelles-merlot-2019?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=les-jamelles-merlot-2019" }
+                    ]
+                },
+                {
+                    "foodcat": 1,
+                    "buttontext": "Mit dem Date",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "Schwanberg Grüner Veltliner", "farbe": "weiss", "image": "schwanberg-gruener-veltliner-2020-wein.png", "trackurl": "https://www.hawesko.de/schwanberg-gruener-veltliner-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=schwanberg-gruener-veltliner-2020" },
+                        { "name": "Crémant de Jessy", "farbe": "weiss", "image": "cremant-de-jessy-besonderheiten.png", "trackurl": "https://www.hawesko.de/cremant-de-jessy?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=cremant-de-jessy" },
+                        { "name": "Dieter Meier - Puro Malbec", "farbe": "rot", "image": "dieter-meier-puro-malbec-2020-wein.png", "trackurl": "https://www.hawesko.de/dieter-meier-puro-malbec-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=dieter-meier-puro-malbec-2020" }
+                    ]
+                },
+                {
+                    "foodcat": 2,
+                    "buttontext": "Mit dem Lieblingsbuch",
+                    "question": "Unsere Weinempfehlung",
+                    "foodid": 0,
+                    "wines": [
+                        { "name": "Rothschild Aussières Chardonnay", "farbe": "weiss", "image": "rothschild-aussieres-chardonnay-2020-wein.png", "trackurl": "https://www.hawesko.de/rothschild-aussieres-chardonnay-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=rothschild-aussieres-chardonnay-2020" },
+                        { "name": "Emma Primitivo", "farbe": "rot", "image": "emma-primitivo-from-grape-til-wine-2020-wein.png", "trackurl": "https://www.hawesko.de/emma-primitivo-from-grape-til-wine-2020?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=emma-primitivo-from-grape-til-wine-2020" },
+                        { "name": "Corte Mayor Rioja Reserva", "farbe": "rot", "image": "corte-mayor-rioja-reserva-2016-wein.png", "trackurl": "https://www.hawesko.de/corte-mayor-rioja-reserva-2016?agent=spiegel_widget&utm_source=Spiegel&utm_medium=Display&utm_campaign=spiegel_widget&utm_content=corte-mayor-rioja-reserva-2016" }
+                    ]
+                }
+
+            ]
+        }
+
+    ]
+}
