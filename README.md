@@ -3,7 +3,7 @@
 📦 Vue, Vuetify, Vuex, Vue-Router, Sass/Scss, ESLint, Axios\
 ⌚ Last update: 12/02/2023
 
-![logo](https://www.hawesko.de/asset-dfc838ae0b/main/images/logo.png)
+![logo](https://www.hawesko.de/assets/hawesko/frontend-core/staticImages/logo_hawesko.svg)
 
 ## Getting Started
 
