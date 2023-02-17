@@ -1,13 +1,10 @@
 <template>
   <div id="app">
     <div class="d-flex justify-content-center align-items-center">
-      <!--<router-view /> -->
       <div id="widget" class="widget show-bg2">
-        <!--<b-alert v-if="$isMobile()" show>isMobile</b-alert> 
-    <b-alert v-else show>isDesktop</b-alert>  -->
         <span v-if="$isMobile()" class="beigeCircle animated slideInUp"></span>
         <span v-else class="beigeCircle animated slideInRight"></span>
-        <!-- <div class="circleSplash animated zoomInShort"></div> -->
+
         <div
           v-if="$isMobile()"
           class="introBottles animated fadeInUpShort delay-1s"
@@ -47,7 +44,6 @@
               :key="index"
               shrink
             >
-              <!-- <img v-on:click="resetAll(), changeToScreen2(item.anlassid)" :src="require(`@/assets/images/${item.image}`)" /> -->
               <b-col
                 sm="12"
                 class=""
@@ -63,9 +59,6 @@
           </b-row>
         </b-container>
 
-        <!-- <div v-else class="text-center mb-3 d-flex justify-content-between">
-      <b-spinner></b-spinner>
-    </div> -->
         <!-- second screen (Helle Fleisch,..., Rot, Weiß)-->
         <b-container fluid class="step foodcats" v-if="secondScreen">
           <b-row>
